@@ -72,5 +72,5 @@ int main()
 	check_parity( v, 5);	
 	 
 	return 0;
-}
+} 
 
