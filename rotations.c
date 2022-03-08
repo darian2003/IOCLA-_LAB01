@@ -57,7 +57,7 @@ int main()
 	int b = 0x00000001;
 	rotate_left(&a, 1);
 	rotate_right(&b, 16);
-	return 0;
+	return 0; 
 }
 
 
