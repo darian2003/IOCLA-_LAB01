@@ -38,7 +38,7 @@ int main(void)
 	char *sir = "aac";
 //	char *str = "ababababacccbacbacbacbacbabc";
  	equality_check(sir);
-
+ 
 	return 0;
 }
 
