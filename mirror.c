@@ -3,7 +3,7 @@
 #include <string.h>
 
 void mirror(char *s)
-{	
+{	 
 	int lungime  = strlen(s);
 	int i = 0;
 	char aux;	
